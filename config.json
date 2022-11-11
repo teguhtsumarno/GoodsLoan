@@ -82,8 +82,8 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "",
-            "enabled": false,
+            "value": "goodsloan",
+            "enabled": true,
             "android": {
                 "webLinks": [
                     {
@@ -121,5 +121,8 @@
         "nativeOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.1",
+    "buildNumber": 1,
+    "runtimeUrl": "http://localhost:8080/"
 }
